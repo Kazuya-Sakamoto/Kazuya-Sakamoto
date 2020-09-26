@@ -9,6 +9,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kazuya-Sakamoto&repo=team_dev" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Kazuya-Sakamoto&repo=team_up" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tsubaoza0901&repo=team_up" />
 </a>
 
