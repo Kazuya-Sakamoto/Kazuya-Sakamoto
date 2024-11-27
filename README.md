@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Kazuya Sakamoto! 
 
 <p align="left">
-  <a href="https://github.com/yutkat/yutkat/">
+  <a href="https://github.com/Kazuya-Sakamoto/">
     <img src="https://komarev.com/ghpvc/?username=Kazuya-Sakamoto" alt="yutkat" />
   </a>
   <a href="https://github.com/Kazuya-Sakamoto">
