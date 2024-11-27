@@ -17,4 +17,4 @@
 
 ## 💻 my skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,vue,react,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nuxt,react,go)](https://skillicons.dev)
