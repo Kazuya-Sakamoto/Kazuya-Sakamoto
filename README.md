@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/twitter/follow/DeepLabCut.svg?label=FollowMe&style=social" alt="Twitter Follow" />
 </p>
 
-## 💻 my skills
+## 💻 skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,nuxt,react,go)](https://skillicons.dev)
 
