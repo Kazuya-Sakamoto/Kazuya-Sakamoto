@@ -1,4 +1,6 @@
 ### Hi there 👋, I am Kazuya Sakamoto! 
+I specialize in developing web applications using React and Nuxt.js, as well as mobile applications with React Native. I'm passionate about TypeScript.
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kazuya-Sakamoto" alt="yutkat" />
